@@ -1,9 +1,10 @@
-import {Component, OnInit} from "@angular/core";
+import {Component} from "@angular/core";
 
 @Component({
-  selector: 'continents',
+  selector: 'types',
   templateUrl: './Types.component.html',
   styleUrls: ['./Types.component.css']
 })
 
-export class TypesComponent {}
+export class TypesComponent {
+}

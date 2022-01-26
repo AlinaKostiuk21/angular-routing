@@ -1,4 +1,4 @@
-import {Component, OnInit} from "@angular/core";
+import {Component} from "@angular/core";
 
 @Component({
   selector: 'olympic-sport-types',
@@ -6,4 +6,5 @@ import {Component, OnInit} from "@angular/core";
   styleUrls: ['./OlympicSportTypes.component.css']
 })
 
-export class OlympicSportTypesComponent {}
+export class OlympicSportTypesComponent {
+}
