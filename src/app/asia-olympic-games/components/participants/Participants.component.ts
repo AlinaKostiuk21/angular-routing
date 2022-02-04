@@ -3,7 +3,7 @@ import {Component} from "@angular/core";
 @Component({
   selector: 'participants',
   templateUrl: './Participants.component.html',
-  styleUrls: ['./Participants.component.css']
+  styleUrls: ['./Participants.component.scss']
 })
 
 export class ParticipantsComponent {
